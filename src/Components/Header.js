@@ -37,7 +37,7 @@ class Header extends Component {
             <hr />
             <ul className="social">
                <a  href="#portfolio" className="button smoothscroll btn project-btn"><i className="fa fa-book"></i>Mẫu website</a>
-               <a href={github} className="button btn github-btn"><i className="fas fa-address-card"></i>Liên hệ ngay</a>
+               <a href="#contact" className="button smoothscroll btn github-btn"><i className="fa fa-phone"></i>Liên hệ ngay</a>
             </ul>
          </div>
       </div>

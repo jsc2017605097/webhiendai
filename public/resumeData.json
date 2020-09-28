@@ -1,17 +1,16 @@
 {
   "main": {
     "name":"DỊCH VỤ WEB",
-    "description":"Dịch vụ web chuyên thiết kế website cho cá nhân, tổ chức, chủ shop, người kinh doanh...Dịch vụ web lấy sự tin tưởng của khách hàng làm phương châm xây dựng dịch vụ, website đảm bảo chất lượng, công nghệ hiện đại, giá đảm bảo rẻ hơn 3-4 triệu so với ngoài thị trường",
+    "description":"Dịch vụ web được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường",
     "image":"profilepic.jpg",
-    "bio":"Dịch vụ web được phát triên bời người con Mỹ Đức, anh Đỗ Cường, dịch vụ bao gồm những lập trình viên có nhiều kinh nghiệm phát triển web, hỗ trợ trực tuyến nhiệt tình,công nghệ sử dụng hiện đại nhất hiện nay, trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.",
+    "bio":"Dịch vụ web được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.",
     "contactmessage":"Thông tin liên hệ chi tiết.",
     "email": "nguyendocuongbka@gmail.com",
     "phone": "0982839405",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"Hạ Quất,Hợp Tiến, Mỹ Đức",
-      "city":"Hà Nội",
+      "street":"Nguyên xá, Bắc Từ Liêm, Hà Nội",
       "state":"",
       "zip": ""
     },
@@ -46,13 +45,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Những tính năng tuyệt vời mà chúng tôi mang lại cho khách hàng",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Nodejs là gì?",
+        "degree":"",
+        "graduated":"",
+        "description":"Nodejs là nền tảng để phát triển web, công nghệ nodejs là một trong những công nghệ hiện đại bậc nhất hiện nay để phát triền web."
       },
       {
         "school":"School #1 Maybe College?",
