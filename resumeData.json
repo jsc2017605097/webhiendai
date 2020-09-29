@@ -1,142 +1,153 @@
 {
   "main": {
-    "name":"DỊCH VỤ WEB",
-    "description":"Dịch vụ web chuyên thiết kế website cho cá nhân, tổ chức, chủ shop, người kinh doanh...Dịch vụ web lấy sự tin tưởng của khách hàng làm phương châm xây dựng dịch vụ, website đảm bảo chất lượng, công nghệ hiện đại, giá đảm bảo rẻ hơn 3-4 triệu so với ngoài thị trường",
-    "image":"profilepic.jpg",
-    "bio":"Dịch vụ web được phát triên bời người con Mỹ Đức, anh Đỗ Cường, dịch vụ bao gồm những lập trình viên có nhiều kinh nghiệm phát triển web, hỗ trợ trực tuyến nhiệt tình,công nghệ sử dụng hiện đại nhất hiện nay, trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.",
-    "contactmessage":"Thông tin liên hệ chi tiết.",
+    "name": "Webhiendai.net",
+    "description": "Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường",
+    "image": "profilepic.jpg",
+    "bio": "Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.",
+    "contactmessage": "Thông tin liên hệ chi tiết.",
     "email": "nguyendocuongbka@gmail.com",
     "phone": "0982839405",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
-    "address":{
-      "street":"Hạ Quất,Hợp Tiến, Mỹ Đức",
-      "city":"Hà Nội",
-      "state":"",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "Nguyên xá, Bắc Từ Liêm, Hà Nội",
+      "state": "",
       "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Những tính năng tuyệt vời mà chúng tôi mang lại cho khách hàng",
+    "loiich": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Những lợi ích khi khách hàng sử dụng dịch vụ của chúng tôi",
+        "description":"Như chúng tôi đã đề cập phía trên, công nghệ chúng tôi sử dụng hiện đại bậc nhất hiện nay, nên trang web của bạn sẽ có những trải nghiệm tuyệt vời,giao diện có nhiều mẫu đẹp, thiết kế theo yêu cầu khách hàng, bảo trì hàng năm, miễn phí hosting và tên miền 1 năm."
       }
     ],
-    "work":[
+    "education": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "school": "Giá web thị trường",
+        "degree": "",
+        "graduated": "",
+        "description": "Trên thị trường có vô vàn dịch vụ thiết kế web, từ 500 nghìn, 1 triệu...30,40 chục triệu. Tại sao lại có sự khác biết như vậy, thật đơn giản để giải thích, chỉ có một lí do duy nhất là chất lượng. Những website có giá tầm 1 hoặc 2 triệu thường chứa nhiều rủi do, đặc biệt chất lượng trang web vô cùng tồi tệ, giao diện xấu, đơn giản, dữ liệu nặng nề, không có chế độ bảo trì,không bao gồm dịch vụ hosting và tên miền. Ngược lại với những website lên đến hàng chục triệu, lí do vì website đó sử dụng công nghệ cao, bảo mật tốt, truyền tải dữ liệu nhanh, website nhẹ nhàng, nhiều tình năng...Thường là những website hệ thống."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "school": "Dịch vụ Webhiendai.net giảm giá 50% nhân dịp ngày khai trương từ ngày 1/1/2021 đến 10/1/2021",
+        "degree": "",
+        "graduated": "",
+        "description": "Với tiêu chí xây dựng web hiện đại, sang, lại phù hợp với đại đa số các shop nhỏ và vừa, Webhiendai.net sẽ mang đến cho bạn sự yên tâm khi sử dụng dịch vụ của chúng tôi, chất lượng là ưu tiên số một, giá cả lại phải chăng, nhân dịp khai trương webhiendai.net. Chúng tôi giảm giá 50% cho các khách hàng, không trì hoãn, nhận web, hài lòng mới thanh toán."
       }
     ],
-    "skills":[
+    "work": [
       {
-        "name":"Python",
-        "level":"60%"
+        "company": "Nền tảng máy chủ Nodejs siêu nhanh và mạnh",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "company": "Frontend sử dụng Framework siêu hot Reactjs",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "company": "Hệ quản trị cơ sở dữ liệu Mongodb nhanh hơn chớp.",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "VueJs",
+        "level": "55%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name": "ReactJs",
+        "level": "50%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
       }
     ]
   }

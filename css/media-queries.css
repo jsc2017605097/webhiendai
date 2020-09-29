@@ -372,7 +372,15 @@
 
 }
 
-
+@media only screen and (max-width:450px){
+   .social{
+      display: flex;
+      flex-direction: column;
+   }
+   .social a{
+      width: 100%;
+   }
+}
 
 
 
