@@ -84,7 +84,7 @@ class Contact extends Component {
                            <span>
                               Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.
                            <br />
-                           <a href="https://www.facebook.com/Webhiendai.net0982839405/">https://www.facebook.com/Webhiendai.net0982839405/</a>
+                           <a href="https://www.facebook.com/Webhiendai.net0982839405/">Facebook</a>
                            </span>
                         </li>
                      </ul>
