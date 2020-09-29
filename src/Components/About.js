@@ -35,9 +35,8 @@ class About extends Component {
                            </span><br />
                            <span>{phone}</span><br />
                            <span>{email}</span>
-                           <br />
-                           <a style={{color:"default"}} href="https://www.messenger.com/t/100010462548931" target="_blank">Messenger</a>
                         </p>
+                        
                      </div>
                   </div>
                </div>

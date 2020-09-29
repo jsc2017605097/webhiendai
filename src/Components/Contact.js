@@ -19,7 +19,7 @@ class Contact extends Component {
 
             <div className="row section-head">
                <div className="ten columns">
-                  <p style={{textAlign:"center"}} className="lead">{message}</p>
+                  <p style={{ textAlign: "center" }} className="lead">{message}</p>
                </div>
 
             </div>
@@ -73,29 +73,19 @@ class Contact extends Component {
                      <p className="address">
                         {name}<br />
                         {street} <br />
-                        {city}, {state} {zip}<br />
                         <span>{phone}</span>
                      </p>
                   </div>
 
                   <div className="widget widget_tweets">
-                     <h4 className="widget-title">Latest Tweets</h4>
+                     <h4 className="widget-title">Webhiendai.net</h4>
                      <ul id="twitter">
                         <li>
                            <span>
-                              This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                              Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="">http://t.co/CGIrdxIlI3</a>
+                              Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.
+                           <br />
+                           <a href="https://www.facebook.com/Webhiendai.net0982839405/">https://www.facebook.com/Webhiendai.net0982839405/</a>
                            </span>
-                           <b><a href="#">2 Days Ago</a></b>
-                        </li>
-                        <li>
-                           <span>
-                              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                              eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
-                           </span>
-                           <b><a href="#">3 Days Ago</a></b>
                         </li>
                      </ul>
                   </div>
