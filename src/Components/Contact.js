@@ -1,6 +1,7 @@
 import React from 'react';
-import axios from 'axios'
 
+const axios = require('axios').default;
+            
 function Contact() {
    const [phone, setPhone] = React.useState('')
    const [street, setStreet] = React.useState('')

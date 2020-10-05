@@ -5,8 +5,6 @@ class Header extends Component {
   render() {
 
     if(this.props.data){
-       var project = this.props.data.project;
-       var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
       // var networks= this.props.data.social.map(function(network){
