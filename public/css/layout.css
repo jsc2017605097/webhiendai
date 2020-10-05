@@ -21,7 +21,28 @@
 /* ------------------------------------------------------------------ */
 /* a. General Styles
 /* ------------------------------------------------------------------ */
-
+#contact button.submittt {
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   color: #fff;
+   background: #0D0D0D;
+   border: none;
+   cursor: pointer;
+   height: auto;
+   display: inline-block;
+   border-radius: 0px;
+   margin-left: 26%;}
+.abc{
+   margin-left: 26%;
+}
+@media only screen and (max-width:450px){
+   #contact button.submittt{
+      margin-left:0;
+   }
+   .abc{
+      margin-left: 0%;
+   }
+}
 body { background: #0f0f0f; }
 
 /* ------------------------------------------------------------------ */
