@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Webhiendai.net",
-    "description": "Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường",
-    "image": "profilepic.jpg",
-    "bio": "Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc, giá đảm bảo rẻ hơn 3-4 triệu so với thị trường.",
+    "description": "Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc.",
+    "image": "Logo2.PNG",
+    "bio": "Webhiendai.net được phát triên bời những lập trình viên có nhiều kinh nghiệm phát triển web, công nghệ sử dụng hiện đại nhất hiện nay, tốc độ truyền tải siêu nhanh. Bảo hành web trọn đời, hỗ trợ trực tuyến 24/7,trọn gọi hosting và tên miền,phạm vi hoạt động toàn quốc. Với tiêu chí xây dựng web hiện đại, sang, lại phù hợp với đại đa số các shop nhỏ và vừa, Webhiendai.net sẽ mang đến cho bạn sự yên tâm khi sử dụng dịch vụ của chúng tôi, chất lượng là ưu tiên số một, giá cả lại phải chăng, nhân dịp khai trương webhiendai.net. Chúng tôi giảm giá 50% cho các khách hàng, không trì hoãn, nhận web, hài lòng mới thanh toán.",
     "contactmessage": "Thông tin liên hệ chi tiết.",
     "email": "nguyendocuongbka@gmail.com",
     "phone": "0982839405",
@@ -48,8 +48,8 @@
     "skillmessage": "Những tính năng tuyệt vời mà chúng tôi mang lại cho khách hàng",
     "loiich": [
       {
-        "school":"Những lợi ích khi khách hàng sử dụng dịch vụ của chúng tôi",
-        "description":"Như chúng tôi đã đề cập phía trên, công nghệ chúng tôi sử dụng hiện đại bậc nhất hiện nay, nên trang web của bạn sẽ có những trải nghiệm tuyệt vời,giao diện có nhiều mẫu đẹp, thiết kế theo yêu cầu khách hàng, bảo trì hàng năm, miễn phí hosting và tên miền 1 năm."
+        "school": "Những lợi ích khi khách hàng sử dụng dịch vụ của chúng tôi",
+        "description": "Như chúng tôi đã đề cập phía trên, công nghệ chúng tôi sử dụng hiện đại bậc nhất hiện nay, nên trang web của bạn sẽ có những trải nghiệm tuyệt vời,giao diện có nhiều mẫu đẹp, thiết kế theo yêu cầu khách hàng, bảo trì hàng năm, miễn phí hosting và tên miền 1 năm."
       }
     ],
     "education": [
