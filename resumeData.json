@@ -114,34 +114,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Website về đồ gỗ nội thất.",
+        "category": "Hiện đại, nhanh, thân thiện người dùng",
+        "image": "http://vuadogo.org/static/media/vuadogo1.8f6a3f83.jpg",
+        "url": "http://vuadogo.org"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Website quảng cáo sản phẩm USB cho ô tô",
+        "category": "Hiện đại, nhanh, thân thiện người dùng",
+        "image": "https://www.extremetech.com/wp-content/uploads/2019/12/SONATA-hero-option1-764A5360-edit.jpg",
+        "url": "http://www.zcarmedia.com/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Website thực phẩm chức năng",
+        "category": "Hiện đại, nhanh, thân thiện người dùng",
+        "image": "https://investone-law.com/wp-content/uploads/2018/09/thuc-pham-chuc-nang-la-gi.jpg",
+        "url": "jsc2017605097.github.io/thucphamchucnang"
       }
     ]
   }
