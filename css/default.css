@@ -92,7 +92,9 @@ e. Others
     content: '';
     content: none;
  }
- 
+. portfolio-item img{
+   height:137px !important;
+}
  ins {
     background-color: #ff9;
     color: #000;
